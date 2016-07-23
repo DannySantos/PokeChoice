@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root to: "pokemons#home"
+  root to: "pokemons#index"
 end
